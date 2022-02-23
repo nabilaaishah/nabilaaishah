@@ -1,5 +1,5 @@
 - 👋 Hi, I’m nabilaaishah
-- 👀 I’m interested in HTML as beginner learner and JavaScript
+- 👀 I’m interested in HTML, JavaScript and Python
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on my business project website
 - 📫 Reach me at email nabilaishah9200@yahoo.com

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m nabilaaishah
 - 👀 I’m interested in HTML, JavaScript and Python
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on my business project website
+- 🌱 I’m currently learning HTML & CSS
+- 💞️ Deep dive into web development
 - 📫 Reach me at email nabilaishah9200@yahoo.com
 
 <!---

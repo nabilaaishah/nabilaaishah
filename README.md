@@ -1,6 +1,6 @@
 - 👋 Hi, I’m nabilaaishah
 - 👀 I’m interested in HTML, CSS & JavaScript!
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 slow2 nanti saya terer CSS
 - 💞️ being cool with people
 - 📫 Reach me at email nabilaishah9200@yahoo.com
 
